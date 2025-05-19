@@ -3,7 +3,7 @@
 Bem-vindo ao **Espelho Mágico**, um assistente virtual encantado criado com tecnologias web e inteligência artificial! Desenvolvido pelos alunos da turma **TII09** do **Senac Lapa Tito**, sob orientação da professora **Luana Melo**, este projeto combina magia e tecnologia para proporcionar uma experiência interativa e divertida.
 
 🔗 **Acesse o projeto online:**  
-[🪄 Ver o Projeto Online](https://minoru-yamanaka.github.io/EEspelho_Magico_Chat_com-_AI/)
+[🪄 Ver o Projeto Online](https://minoru-yamanaka.github.io/Espelho_Magico_Chat_com_AI/)
 
 ---
 
